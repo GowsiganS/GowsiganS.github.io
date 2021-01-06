@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<!-- Setting webpage document to HTML document -->
+
+<html lang="en">
+<!-- Setting HTML document page language as English -->
+
+<head>
+
+<link rel="stylesheet" href="style.css">
+<!-- Link to external CSS styles page -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Item 1: Setting the Response Design -->
+
+<meta charset = "utf-8">
+<!-- Setting character set to utf-8 -->
+
+<base href="https://gowsigans.github.io/">
+
+<!-- Setting base reference file location for images, css file and html documents -->
+
+<title> Gowsigan Sritharan's Personal Webpage</title>
+
+</head>
+
+
+
+<body>
+<div class = "header"><h1> Gowsigan Sritharan's Personal Website</h1></div>
+<!-- Main Page Header -->
+
+<div class = "navbar">
+<ul> 
+  <li class = "nav"><a href="index.html">Homepage</a></li>
+  <li class = "nav"><a href="education.html">Education</a></li>
+  <li class = "nav"><a href="experience.html">Relevant Experience</a></li>
+  <li class = "nav"><a href="publication.html">Publications</a></li>
+  <li class = "nav"><a href="personal.html">Personal Projects</a></li>
+  <li class = "nav"><a href="contact.html">Contact Information</a></li>
+</ul></div>
+<!-- Item 2: Setting the content pages for the navigation bar, navbar style referenced & modified from w3schools: https://www.w3schools.com/howto/howto_js_topnav.asp -->
+
+
+
+
+<div class = "move2"><h2 class = "title"> Homepage</h2>
+<p class = "intro"> Hello, my name is Gowsigan Sritharan and welcome to the homepage of my personal website. This website is a personal advertisement and was created using the web design programming languages HTML & CSS as part of an assignment for the GEOM 101 Web Design & Programming course at Fleming College's GIS Applications Specialist program. Enjoy!</p></div>
+<!-- Introduction -->
+
+
+<div class = "move1"><h2 class = "title">Career Interests</h2>
+
+
+<p class = "class1">Throughout the years during my time in university and college, I had gone through working with different types of data within different industries. There are several subject matters within the GIS sector that I am interested in and would like to learn more about. These include the following:</p></div>
+
+
+<div class = "move2"><ul class = "class1">
+<li>Environmental, sustainability & natural resource management</li>
+<li>Crime analysis</li>
+<li>Emergency manageemnt/Disaster response</li>
+<li>Urban planning</li>
+<li>Government</li>
+<li>Defence & Intelligence</li>
+<li>Public Health & Safety</li>
+<li>Utilities</li></ul></div>
